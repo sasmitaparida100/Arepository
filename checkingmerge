@@ -1,16 +1,4 @@
 class New{
-<<<<<<< HEAD
 System.out.println("master change");
 }
 
-
-
-
-
-:wq
-=======
-
-System.out.println("Developer change");
-
-}
->>>>>>> ee521d269769011cd47dca8e5258104865482536
