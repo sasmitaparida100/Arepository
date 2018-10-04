@@ -1,3 +1,5 @@
 class New{
-System.out.println("Master change");
+
+System.out.println("Developer change");
+
 }
